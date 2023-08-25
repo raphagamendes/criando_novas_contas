@@ -14,7 +14,7 @@
 
 ### Setup do Chatwoot
 
-## Cria empresa e vincular ao Usuario
+## Como criar sua empresa e vincular ao Usuario
 
 ## Acesse superadmin pela url: https:/dominio/super_admin
 
