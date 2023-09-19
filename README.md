@@ -1,16 +1,8 @@
 <p align="center">
-<img src="https://cwmkt.com.br/wp-content/uploads/2023/08/logo-github-cwmkt.svg" alt="DispZap Whats Marketing" width="240" />
+<img src="https://cdn.discordapp.com/attachments/684168749065961581/1153397619477987468/logo.svg" alt="RCKMENDES" width="240" />
 <p align="center">Seja bem-vindo ao Guia de primeiros passos 🚀</p>
-</p>
-  
-<p align="center">
-<img src="https://whatsapp.com/favicon.ico" alt="WhatsAPP-logo" width="32" />
-<span>Grupo WhatsaAPP: </span>
-<a href="https://link.cwmkt.com.br/grupo-whats" target="_blank">Grupo</a>
-</p>
+</p>  
 
-<hr />
-<hr />
 
 ### Setup do Chatwoot
 
