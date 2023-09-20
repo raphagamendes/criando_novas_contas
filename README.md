@@ -50,9 +50,9 @@
 
 
 ## Marque as seguintes opções
+![image](https://github.com/raphagamendes/criando_novas_contas/assets/66753842/93220e72-8c54-4078-a87c-572f3453a901)
 
-
-![image](https://github.com/cwmkt/setup/assets/91642837/cc00fc38-5b44-4aca-afb7-690dea12e2ec)
+#![image](https://github.com/cwmkt/setup/assets/91642837/cc00fc38-5b44-4aca-afb7-690dea12e2ec)
 
 
 ## Clique em  Create Accounts
@@ -72,7 +72,7 @@
 
 
 
-![image](https://github.com/raphagamendes/criando_novas_contas/assets/66753842/93220e72-8c54-4078-a87c-572f3453a901)
+
 
 
 
